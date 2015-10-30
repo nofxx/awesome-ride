@@ -1,10 +1,8 @@
 # Awesome Ride
 
 > A curated list for motorcycle world.
->
-> _“.” (John Brunner)_
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/herrbischoff/awesome-osx-command-line)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nofxx/awesome-ride)
 
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](contributing.md).
 
@@ -22,6 +20,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
     - [Aprilia](#aprilia)
     - [BMW](#bmw)
     - [Ducati](#ducati)
+    - [Moto Guzzi] (#guzzi)
+    - [Harley Davidson](#hd)
     - [Honda](#honda)
     - [KTM](#ktm)
     - [MV Agusta] (#mv-agusta)
